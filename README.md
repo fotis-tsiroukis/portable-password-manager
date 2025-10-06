@@ -1,3 +1,5 @@
+!(/password_manager.jpg)
+
 Portable, Offline Password Manager
 
 My goal with this script was to design a portable, military-grade password manager that will be able to run from an external SSD with speed of 350 MB/s or more. I tried to provide defense in depth by implementing multiple, redundant layers of security to protect against a wide array of attacks, including physical theft of the SSD it's stored on.
