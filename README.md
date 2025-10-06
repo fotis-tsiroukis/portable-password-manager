@@ -1,4 +1,4 @@
-!(/password_manager.jpg)
+!(password_manager.jpg)
 
 Portable, Offline Password Manager
 
